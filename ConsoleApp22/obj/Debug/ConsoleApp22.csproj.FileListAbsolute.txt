@@ -1,0 +1,14 @@
+C:\Users\1\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\1\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\1\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\1\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csprojAssemblyReference.cache
+C:\Users\1\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\1\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
+D:\Study\GIT\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+D:\Study\GIT\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+D:\Study\GIT\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+D:\Study\GIT\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csprojAssemblyReference.cache
+D:\Study\GIT\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+D:\Study\GIT\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+D:\Study\GIT\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
